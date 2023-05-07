@@ -1,4 +1,4 @@
 deploy:
   type: git
   repo: https://github.com/amoshung/amoshung.github.io.git
-  branch: master
+  branch: gh-pages
